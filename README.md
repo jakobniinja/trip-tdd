@@ -1,7 +1,7 @@
 # trip-tdd
 
-##Lessons
+## Lessons
 
 on build failure alt + 0
 
-when using quickstart archetype keep the app.java 
+when using quickstart archetype keep the App.java 
