@@ -4,7 +4,25 @@
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+W
+'src/test/java/org/example/TripTest.java,a\3\a3f8c638badc6a67e661d5ab95a105653cfdd672
+S
+#src/test/java/org/example/Trip.java,c\6\c6e10e081be951a6010c51c3ce4e3a5ee53e1b71
+\
+,src/test/java/org/example/trip/TripTest.java,c\2\c2d6ea31cc2211ef9ebcd3a505d0b86d004efb7d
+X
+(src/test/java/org/example/trip/Trip.java,6\8\680e288d53358b70f94178083b89a482fee73fef
+S
+#src/main/java/org/example/Trip.java,2\7\2755bb4c9dbaab2a82f56aeee1742717b2da0a77
 R
 "src/main/java/org/example/App.java,2\6\268b09d2a5cdab7d148f0ec91f7b3fb51601410d
-V
-&src/test/java/org/example/AppTest.java,4\3\438c56474209176629917f1aaaac4e1cf31f765e
+[
++src/test/java/org/example/trip/AppTest.java,2\7\279fa6c0acde8631d769564cec06f3f43d24000c
+W
+'src/main/java/org/example/trip/App.java,0\7\07c78ea36caee735b09b9cd9cac46895fa34c7e1
+X
+(src/main/java/org/example/trip/Trip.java,9\6\9622f4edb96315f0fb7915c897c5f48f1b9a90f9
+_
+/src/test/java/org/example/trip/TripDAOTest.java,0\6\0620f271326f2bd12afd8f9332b661473f9ed3ce
+[
++src/main/java/org/example/trip/TripDAO.java,8\7\87d8ebdc87c09126fa17c0c90450be88bc5406de
