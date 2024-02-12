@@ -26,3 +26,5 @@ _
 /src/test/java/org/example/trip/TripDAOTest.java,0\6\0620f271326f2bd12afd8f9332b661473f9ed3ce
 [
 +src/main/java/org/example/trip/TripDAO.java,8\7\87d8ebdc87c09126fa17c0c90450be88bc5406de
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
