@@ -1,7 +1,8 @@
-package org.example.trip;
+package org.example.user;
 
 import java.util.ArrayList;
 import java.util.List;
+import org.example.trip.Trip;
 
 public class User {
 

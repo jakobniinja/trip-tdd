@@ -22,3 +22,11 @@ X
 (src/main/java/org/example/trip/User.java,6\2\62caaee87483873612fea1bd7e40a650c7a50539
 \
 ,src/test/java/org/example/user/UserTest.java,e\6\e636a576c3792040cb02f2b45e67e76be1dd7be7
+X
+(src/main/java/org/example/user/User.java,2\d\2d3e1470c2ea339c8e900fc28b81cc603dacbf39
+c
+3src/test/java/org/example/trip/TripServiceTest.java,7\0\70864f65f881ab150e9d9673a6478a9e671ff5a8
+_
+/src/test/java/org/example/trip/TripService.java,7\e\7e916f6c7100a62af3cefb0e471f8af1496bd42e
+_
+/src/main/java/org/example/trip/TripService.java,7\7\77217143743df60d0662193a6f5348a81df3dc68

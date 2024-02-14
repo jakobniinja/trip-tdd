@@ -3,6 +3,7 @@ package org.example.trip;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+import org.example.user.User;
 import org.junit.jupiter.api.Test;
 
 class TripDAOTest {
