@@ -40,6 +40,13 @@ class TripServiceTest {
   }
 
   @Test
+  void onGetTripNullThrow(){
+    when(userMock.getFriends()).thenReturn(Collections.singletonList(null));
+
+    assertThrows(UserNotLoggedException.class, () -> cut.getTripByUser(userMock));
+  }
+  
+  @Test
   void onHasFriendEmptyList() {
     when(userMock.getFriends()).thenReturn(Collections.singletonList(userMock));
     List<Trip> tripByUser = cut.getTripByUser(userMock);

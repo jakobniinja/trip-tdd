@@ -1,5 +1,7 @@
 package org.example.user;
 
+import org.example.exception.CollaboratorCallException;
+
 public class UserSession {
 
 
@@ -14,6 +16,6 @@ public class UserSession {
   }
 
   public User getLoggedUser() {
-    throw new RuntimeException();
+    throw new CollaboratorCallException("Don't call getLogged in unit test");
   }
 }
