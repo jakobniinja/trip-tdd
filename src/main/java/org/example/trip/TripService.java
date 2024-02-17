@@ -10,7 +10,7 @@ public class TripService {
   private boolean oneFriend;
 
   public List<Trip> getTripByUser(User user) throws UserNotLoggedException {
-    ArrayList<Trip> trips = new ArrayList<>();
+    List<Trip> trips = new ArrayList<>();
 
     for (User friend : user.getFriends()) {
 

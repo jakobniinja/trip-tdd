@@ -6,7 +6,7 @@ import org.example.user.User;
 
 public class TripDAO {
 
-  public List<Trip> findTripByUser(User user) {
+  public static List<Trip> findTripByUser(User user) {
     return Collections.emptyList();
   }
 }
